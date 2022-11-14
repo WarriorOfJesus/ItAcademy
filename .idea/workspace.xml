@@ -4,68 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac02e34a-a233-44a8-ba92-60d3b0a3f6c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ItAcademy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/arrays/Array2HomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/arrays/Array3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/arrays/ArrayClassWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/arrays/FoundNumberInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/arrays/RandomNumberArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/codingbat/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/codingbat/make2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/conditionexperessions/ifcondition/Age.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/conditionexperessions/ifcondition/BiggerAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/conditionexperessions/ifcondition/BiggerNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/conditionexperessions/ifcondition/Lesson2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/conditionexperessions/ifcondition/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/conditionexperessions/switchcondition/Moths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/fridge/Fridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/fridge/FridgeBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/fridge/FridgeOfDoors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/fridge/FridgeOfFreezerCompartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/fridge/FridgeOfRubberSeal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/fridge/MainFridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/fridge/Meat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/fridge/OtherFood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/fridge/ShelvesOfRefrigerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/fridge/TheFreezer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/fridge/Vegetables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/loopfor/Exchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/loopfor/Exchange2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/loopfor/LessonFor5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/loopfor/NestedLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/loopwhile/ClassWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/loopwhile/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/loopwhile/Lesson3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/loopwhile/NaturalNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/loopwhile/OddNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/loopwhile/SumArithmeticMean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/matrix/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/methods/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/simpletasks/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/simpletasks/Car2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/simpletasks/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/simpletasks/Coordinate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/simpletasks/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/simpletasks/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/simpletasks/HomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/simpletasks/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/simpletasks/HumanMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/simpletasks/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/simpletasks/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/simpletasks/Mercedes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/simpletasks/MercedesCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/simpletasks/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/simpletasks/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itacademy/simpletasks/Task.java" afterDir="false" />
-    </list>
+    <list default="true" id="ac02e34a-a233-44a8-ba92-60d3b0a3f6c1" name="Changes" comment="initial" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,20 +28,20 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/IdeaProjects/ItAcademy/src&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/ItAcademy/src",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\IdeaProjects\ItAcademy\src" />
@@ -193,6 +132,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665415376107</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1668431771615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668431771615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +152,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ItAcademy$Arrays.ic" NAME="Arrays Coverage Results" MODIFIED="1666006397501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
