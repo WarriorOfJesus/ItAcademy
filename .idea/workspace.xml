@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac02e34a-a233-44a8-ba92-60d3b0a3f6c1" name="Changes" comment="don't have while" />
+    <list default="true" id="ac02e34a-a233-44a8-ba92-60d3b0a3f6c1" name="Changes" comment="qwerty" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668687287598</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="qwerty">
+      <created>1668688203586</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668688203586</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,7 +205,8 @@
     <MESSAGE value="initial" />
     <MESSAGE value="pushed while" />
     <MESSAGE value="don't have while" />
-    <option name="LAST_COMMIT_MESSAGE" value="don't have while" />
+    <MESSAGE value="qwerty" />
+    <option name="LAST_COMMIT_MESSAGE" value="qwerty" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ItAcademy$Arrays.ic" NAME="Arrays Coverage Results" MODIFIED="1666006397501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
