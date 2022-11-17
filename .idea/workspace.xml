@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac02e34a-a233-44a8-ba92-60d3b0a3f6c1" name="Changes" comment="initial">
+    <list default="true" id="ac02e34a-a233-44a8-ba92-60d3b0a3f6c1" name="Changes" comment="pushed while">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/itacademy/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/itacademy/Example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
