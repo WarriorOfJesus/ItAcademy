@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac02e34a-a233-44a8-ba92-60d3b0a3f6c1" name="Changes" comment="qwerty" />
+    <list default="true" id="ac02e34a-a233-44a8-ba92-60d3b0a3f6c1" name="Changes" comment="qwerty">
+      <change afterPath="$PROJECT_DIR$/src/itacademy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/itacademy/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/itacademy/bread/Bread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/itacademy/bread/FrenchBaguette.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/itacademy/bread/Lavash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/itacademy/bread/Lepeshka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/itacademy/bread/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/itacademy/library/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/itacademy/library/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/itacademy/phone/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/itacademy/phone/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/itacademy/phone/TheFirstSimCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/itacademy/phone/TheSecondSimCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/itacademy/phone/TheThirdSimCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/itacademy/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/itacademy/Example.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,13 +70,13 @@
       <recent name="C:\Users\Admin\IdeaProjects\ItAcademy\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.itacademy.fridge.MainFridge">
-    <configuration name="Exchange2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="itacademy.loopfor.Exchange2" />
+  <component name="RunManager" selected="Application.itacademy.phone.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="itacademy.bread.Main" />
       <module name="ItAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="itacademy.loopfor.*" />
+          <option name="PATTERN" value="itacademy.bread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HumanMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="itacademy.simpletasks.HumanMain" />
+    <configuration name="itacademy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="itacademy.Main" />
       <module name="ItAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="itacademy.simpletasks.*" />
+          <option name="PATTERN" value="itacademy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="itacademy.simpletasks.Car2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="itacademy.simpletasks.Car2" />
+    <configuration name="itacademy.library.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="itacademy.library.Main" />
       <module name="ItAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="itacademy.simpletasks.*" />
+          <option name="PATTERN" value="itacademy.library.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="itacademy.simpletasks.Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="itacademy.simpletasks.Main1" />
+    <configuration name="itacademy.phone.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="itacademy.phone.Main" />
       <module name="ItAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="itacademy.simpletasks.*" />
+          <option name="PATTERN" value="itacademy.phone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.itacademy.phone.Main" />
+        <item itemvalue="Application.itacademy.library.Main" />
+        <item itemvalue="Application.itacademy.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.itacademy.fridge.MainFridge" />
-        <item itemvalue="Application.itacademy.simpletasks.Car2" />
-        <item itemvalue="Application.HumanMain" />
-        <item itemvalue="Application.itacademy.simpletasks.Main1" />
-        <item itemvalue="Application.Exchange2" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668688368337</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="qwerty">
+      <created>1668688748945</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668688748945</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
