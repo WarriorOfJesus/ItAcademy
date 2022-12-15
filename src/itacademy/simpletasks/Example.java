@@ -1,4 +1,4 @@
-package itacademy;
+package itacademy.simpletasks;
 
 public class Example {
     public static void main(String[] args) {

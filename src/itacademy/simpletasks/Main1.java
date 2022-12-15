@@ -1,7 +1,5 @@
 package itacademy.simpletasks;
 
-import itacademy.Computer;
-
 public class Main1 {
     public static void main(String[] args) {
         Computer pc = new Computer();

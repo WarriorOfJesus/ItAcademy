@@ -1,4 +1,4 @@
-package itacademy;
+package itacademy.simpletasks;
 
 public class Computer {
     public int cpu;
