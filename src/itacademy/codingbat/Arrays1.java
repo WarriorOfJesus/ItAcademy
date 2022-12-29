@@ -1,8 +1,6 @@
 package itacademy.codingbat;
 
-import java.lang.reflect.Array;
-
-public class Arrays {
+public class Arrays1 {
     public static void main(String[] args) {
         unlucky1(new int[]{2, 1, 3, 4, 5});
     }

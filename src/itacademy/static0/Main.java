@@ -9,5 +9,16 @@ public class Main {
         System.out.println(human2);
         System.out.println(human3);
         System.out.println(Human.getCount());
+
+
+        Counter counter1 = new Counter();
+        Counter counter2 = new Counter();
+        Counter.increment();
+        System.out.println(Counter.getNumberCalls());
+        Counter.increment();
+        System.out.println(Counter.getNumberCalls());
+        Counter.increment();
+        System.out.println(Counter.getNumberCalls());
+        Counter.factorial();
     }
 }

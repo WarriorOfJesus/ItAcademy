@@ -20,8 +20,8 @@ public class ArrayClassWork {
 
             }
         }
-       // System.out.println(Arrays.toString(array));
+       // System.out.println(Arrays1.toString(array));
         System.out.println("count = " + count);
-        //System.out.println(Arrays.toString(array));
+        //System.out.println(Arrays1.toString(array));
     }
 }

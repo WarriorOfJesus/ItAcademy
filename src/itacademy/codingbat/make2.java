@@ -10,7 +10,7 @@ public class make2 {
         array2[0] = nums[1];
         array2[1] = nums[2];
         array2[nums.length - 1] = nums[0];
-        System.out.println(java.util.Arrays.toString(array2));*/
+        System.out.println(java.util.Arrays1.toString(array2));*/
 
 
     }
@@ -23,16 +23,16 @@ public class make2 {
         if (lengthA == 0) {
             array[0] = b[0];
             array[1] = b[1];
-            System.out.println(java.util.Arrays.toString(array));
+            System.out.println(java.util.Arrays1.toString(array));
         } else if (lengthB == 0) {
             array[0] = a[0];
             array[1] = a[1];
-            System.out.println(java.util.Arrays.toString(array));
+            System.out.println(java.util.Arrays1.toString(array));
 
         } else if (lengthA >= 1 || lengthB >= 1) {
             array[0] = a[0];
             array[1] = b[0];
-            System.out.println(java.util.Arrays.toString(array));
+            System.out.println(java.util.Arrays1.toString(array));
         }
     }
 */

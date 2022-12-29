@@ -77,7 +77,7 @@ public class Matrix {
                     max = matrix[i][j];
                 }
                 if (minimum > matrix[i][j]) {
-                    //number1Index1 = Arrays.binarySearch(matrix[][]);
+                    //number1Index1 = Arrays1.binarySearch(matrix[][]);
                     minimum = matrix[i][j];
                 }
             }
